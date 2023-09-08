@@ -1,2 +1,5 @@
 # TLClothesShare
  
+## COMMANDS
+
+/ShareOutfit [serverID]
